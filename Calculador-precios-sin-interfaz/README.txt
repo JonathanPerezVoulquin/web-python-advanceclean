@@ -1,0 +1,3 @@
+- Faltaría depurar un poco el codigo. 
+- Estudiar e intentar aplicar interfaces gráficas como Tkinter de Python.
+- Investigar como puedo subir esa interfaz gráfica a mi app de Python.

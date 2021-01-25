@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Roboto+Mono:wght@300&display=swap');
+
+
+
+
+.logo{
+	max-width: 400px;
+	max-height: 100px;
+	position: relative;
+	left:20px;
+	top: 5px;
+	margin-top: -25px;
+}
+
+
+.rectangulo{
+	width: 280px;
+	height: 50px;
+	display: block;
+	background-color: transparent;
+	border: solid 1px #d7c41f;
+	position: relative;
+	bottom:40px;
+	right:18px;
+}
+
+
+.advance {
+	
+	color:#fff;
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto Mono', monospace;
+	display: inline-block;
+	text-align: center;
+	background-color: transparent;
+	
+}
+
+
+.clean {
+	
+	color:#d7c41f;
+	font-size: 25px;
+	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto Mono', monospace;
+	display: inline-block;
+	margin-left: 10px;
+	text-align: center;
+	background-color: transparent;
+	
+}
+
+
+.gota_padre{
+
+	width: 25px;
+	height: 25px;
+	margin: 20px;
+	display: inline-block;
+	position:relative;
+	top:25px;
+	background-color: #00aae4;
+	border-radius: 50% 50% 50% 0%;
+	box-shadow: 
+	-moz-transform: scale(1) rotate(135deg);
+	-webkit-transform: scale(1) rotate(135deg);
+	-o-transform: scale(1) rotate(125deg);
+	-ms-transform: scale(1) rotate125deg);
+	transform: scale(1) rotate(135deg);	
+
+}
+
+
+
